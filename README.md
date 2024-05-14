@@ -5,13 +5,14 @@
  212223220115
  
  B.TECH (IT)
+ ## AIM :
+      Use of Network commands in Real Time environment
  
- AIM :Use of Network commands in Real Time environment
- 
- Software : Command Prompt And Network Protocol
- Analyzer
-<BR>
-Procedure: To do this EXPERIMENT- follows these steps:
+## Software : 
+      Command Prompt And Network Protocol Analyzer
+
+## Procedure: 
+To do this EXPERIMENT- follows these steps:
  In this EXPERIMENT- students have to understand basic networking commands e.g
  cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs
  using a network protocol analyzer
